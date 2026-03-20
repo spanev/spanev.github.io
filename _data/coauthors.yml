@@ -2,6 +2,77 @@
   - firstname: ["Fernando", "F."]
     url: https://www.cs.cmu.edu/~ftorre/
 
+"hodgins":
+  - firstname: ["Jessica", "J.", "J. K.", "Jessica K."]
+    url: https://www.cs.cmu.edu/~jkh/
+
+"de melo":
+  - firstname: ["Celso", "C."]
+    url: https://celsodemelo.net/
+
+"kim":
+  - firstname: ["Emily", "E."]
+    url: https://scholar.google.com/citations?user=XQHAW5gAAAAJ&hl=en
+
+"namburu":
+  - firstname: ["Sai Abhishek Siddhartha", "S.", "S. A. S.", "Sai Abhishek Si"]
+    url: https://namburusiddhartha.github.io/
+
+"qin":
+  - firstname: ["Zheyang", "Z."]
+    url: https://my.linkedin.com/in/zheyang-qin-b2b3b6213
+
+"chakraborty":
+  - firstname: ["Shayok", "S."]
+    url: https://shayokch.com/
+
+"hu":
+  - firstname: ["Shuowen", "S."]
+    url: https://scholar.google.com/citations?user=kpd1UoMAAAAJ&hl=en
+
+"fang":
+  - firstname: ["Xiao", "X."]
+    url: https://xiaofang007.github.io/
+
+"jeon":
+  - firstname: ["Minhyek", "M."]
+    url: https://scholar.google.com/citations?user=hk0FmXQAAAAJ&hl=ko
+
+"nikolova":
+  - firstname: ["Desislava", "D."]
+    url: https://www.linkedin.com/in/desislava-v-nikolova/
+
+"san-segundo":
+  - firstname: ["Rubén", "Ruben", "R."]
+    url: https://blogs.upm.es/gthau/people/ruben-san-segundo-hernandez/
+
+"zhang":
+  - firstname: ["Ada", "A."]
+    url: https://www.researchgate.net/profile/Ada-Zhang-7
+
+"whitford":
+  - firstname: ["Andrew", "A.", "Andrew S.", "A. S."]
+    url: https://www.cs.cmu.edu/~awhitfor/
+
+"huang":
+  - firstname: ["Dong", "D."]
+    url: https://www.donghuangresearch.com/
+
+"prinet":
+  - firstname: ["Véronique", "V.", "Veronique"]
+    url: https://kesala.net/
+
+"vicente":
+  - firstname: ["Francisco", "F."]
+    url: https://scholar.google.com/citations?user=3elKp9wAAAAJ&hl=en
+
+"cebulla":
+  - firstname: ["Alexander", "A."]
+    url: https://www.linkedin.com/in/dr-ing-alexander-cebulla-3b9a66366/
+
+
+
+
 "adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
