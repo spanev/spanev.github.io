@@ -1,14 +1,38 @@
+"cebulla":
+  - firstname: ["Alexander", "A."]
+    url: https://www.linkedin.com/in/dr-ing-alexander-cebulla-3b9a66366/
+
+"chakraborty":
+  - firstname: ["Shayok", "S."]
+    url: https://shayokch.com/
+
 "de la torre":
   - firstname: ["Fernando", "F."]
     url: https://www.cs.cmu.edu/~ftorre/
+
+"de melo":
+  - firstname: ["Celso", "C."]
+    url: https://celsodemelo.net/
+
+"fang":
+  - firstname: ["Xiao", "X."]
+    url: https://xiaofang007.github.io/
 
 "hodgins":
   - firstname: ["Jessica", "J.", "J. K.", "Jessica K."]
     url: https://www.cs.cmu.edu/~jkh/
 
-"de melo":
-  - firstname: ["Celso", "C."]
-    url: https://celsodemelo.net/
+"hu":
+  - firstname: ["Shuowen", "S."]
+    url: https://scholar.google.com/citations?user=kpd1UoMAAAAJ&hl=en
+
+"huang":
+  - firstname: ["Dong", "D."]
+    url: https://www.donghuangresearch.com/
+
+"jeon":
+  - firstname: ["Minhyek", "M."]
+    url: https://scholar.google.com/citations?user=hk0FmXQAAAAJ&hl=ko
 
 "kim":
   - firstname: ["Emily", "E."]
@@ -18,92 +42,34 @@
   - firstname: ["Sai Abhishek Siddhartha", "S.", "S. A. S.", "Sai Abhishek Si"]
     url: https://namburusiddhartha.github.io/
 
-"qin":
-  - firstname: ["Zheyang", "Z."]
-    url: https://my.linkedin.com/in/zheyang-qin-b2b3b6213
-
-"chakraborty":
-  - firstname: ["Shayok", "S."]
-    url: https://shayokch.com/
-
-"hu":
-  - firstname: ["Shuowen", "S."]
-    url: https://scholar.google.com/citations?user=kpd1UoMAAAAJ&hl=en
-
-"fang":
-  - firstname: ["Xiao", "X."]
-    url: https://xiaofang007.github.io/
-
-"jeon":
-  - firstname: ["Minhyek", "M."]
-    url: https://scholar.google.com/citations?user=hk0FmXQAAAAJ&hl=ko
-
 "nikolova":
   - firstname: ["Desislava", "D."]
     url: https://www.linkedin.com/in/desislava-v-nikolova/
-
-"san-segundo":
-  - firstname: ["Rubén", "Ruben", "R."]
-    url: https://blogs.upm.es/gthau/people/ruben-san-segundo-hernandez/
-
-"zhang":
-  - firstname: ["Ada", "A."]
-    url: https://www.researchgate.net/profile/Ada-Zhang-7
-
-"whitford":
-  - firstname: ["Andrew", "A.", "Andrew S.", "A. S."]
-    url: https://www.cs.cmu.edu/~awhitfor/
-
-"huang":
-  - firstname: ["Dong", "D."]
-    url: https://www.donghuangresearch.com/
 
 "prinet":
   - firstname: ["Véronique", "V.", "Veronique"]
     url: https://kesala.net/
 
+"qin":
+  - firstname: ["Zheyang", "Z."]
+    url: https://my.linkedin.com/in/zheyang-qin-b2b3b6213
+
+"san-segundo":
+  - firstname: ["Rubén", "Ruben", "R."]
+    url: https://blogs.upm.es/gthau/people/ruben-san-segundo-hernandez/
+
 "vicente":
   - firstname: ["Francisco", "F."]
     url: https://scholar.google.com/citations?user=3elKp9wAAAAJ&hl=en
 
-"cebulla":
-  - firstname: ["Alexander", "A."]
-    url: https://www.linkedin.com/in/dr-ing-alexander-cebulla-3b9a66366/
+"whitford":
+  - firstname: ["Andrew", "A.", "Andrew S.", "A. S."]
+    url: https://www.cs.cmu.edu/~awhitfor/
 
+"yeghiazaryan":
+  - firstname: ["Mikael", "M."]
+    url: https://mikayeghi.github.io/
 
-
-
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"zhang":
+  - firstname: ["Ada", "A."]
+    url: https://www.researchgate.net/profile/Ada-Zhang-7
