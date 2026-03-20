@@ -29,10 +29,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-This website is currently under construction. Please come back soon.
+I am a Project Scientist at the Robotics Institute at Carnegie Mellon University. My research focuses on computer vision, with an emphasis on aerial and satellite imagery analysis, generative and foundation models, synthetic data, and adversarial robustness. My work explores how modern generative models can be leveraged to diagnose, improve, and stress-test visual recognition systems, particularly in challenging real-world and defense-related scenarios.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I have contributed to multiple research projects funded by the U.S. Department of Defense and the Army Research Laboratory, addressing problems such as cross-domain object detection, adversarial camouflage, and synthetic data generation for machine learning. My publications appear in leading venues, including ICCV, WACV, ICIP, and IEEE Transactions, and my recent work investigates the integration of generative AI into evaluation and active learning pipelines.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In addition to my research, Dr. Panev actively mentors graduate students and serves as a reviewer for major computer vision conferences, including CVPR, ICCV, and WACV, where I was recognized as an Outstanding Reviewer in 2024. I received my Ph.D. in Electrical Engineering and Computer Science from the Technical University of Sofia.
