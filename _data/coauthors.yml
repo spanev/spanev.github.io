@@ -10,6 +10,14 @@
   - firstname: ["Fernando", "F."]
     url: https://www.cs.cmu.edu/~ftorre/
 
+"de melo":
+  - firstname: ["Celso", "C."]
+    url: https://celsodemelo.net/
+
+"melo":
+  - firstname: ["Celso De", "Celso", "C."]
+    url: https://celsodemelo.net/
+
 "fang":
   - firstname: ["Xiao", "X."]
     url: https://xiaofang007.github.io/
@@ -33,10 +41,6 @@
 "kim":
   - firstname: ["Emily", "E."]
     url: https://scholar.google.com/citations?user=XQHAW5gAAAAJ&hl=en
-
-"melo":
-  - firstname: ["Celso De", "Celso", "C."]
-    url: https://celsodemelo.net/
 
 "namburu":
   - firstname: ["Sai Abhishek Siddhartha", "S.", "S. A. S.", "Sai Abhishek Si"]
