@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: My [Google Scholar profile](https://scholar.google.com/citations?user=BNOAmiwAAAAJ&hl=en) may be more up-to-date.
+description: My <a href=https://scholar.google.com/citations?user=BNOAmiwAAAAJ&hl=en>Google Scholar profile</a> may be more up-to-date.
 nav: true
 nav_order: 2
 ---
