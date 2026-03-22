@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
