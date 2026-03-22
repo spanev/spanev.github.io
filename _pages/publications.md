@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description:
+description: A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 nav: true
 nav_order: 2
 ---
