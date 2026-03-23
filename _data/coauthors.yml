@@ -24,7 +24,7 @@
 
 "han":
   - firstname: ["Jinsong", "J."]
-  url: https://person.zju.edu.cn/en/hanjinsong
+    url: https://person.zju.edu.cn/en/hanjinsong
 
 "hodgins":
   - firstname: ["Jessica", "J.", "J. K.", "Jessica K."]
@@ -88,4 +88,4 @@
 
 "zhou":
   - firstname: ["Sanping", "S."]
-  url: https://scholar.google.com/citations?user=2Drvv44AAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=2Drvv44AAAAJ&hl=en
