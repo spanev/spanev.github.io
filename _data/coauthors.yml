@@ -22,6 +22,10 @@
   - firstname: ["Xiao", "X."]
     url: https://xiaofang007.github.io/
 
+"han":
+  - firstname: ["Jinsong", "J."]
+  url: https://person.zju.edu.cn/en/hanjinsong
+
 "hodgins":
   - firstname: ["Jessica", "J.", "J. K.", "Jessica K."]
     url: https://www.cs.cmu.edu/~jkh/
@@ -81,3 +85,7 @@
 "zhang":
   - firstname: ["Ada", "A."]
     url: https://www.researchgate.net/profile/Ada-Zhang-7
+
+"zhou":
+  - firstname: ["Sanping", "S."]
+  url: https://scholar.google.com/citations?user=2Drvv44AAAAJ&hl=en
