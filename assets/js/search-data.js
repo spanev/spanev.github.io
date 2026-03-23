@@ -472,6 +472,13 @@ ninja.data = [{
           window.open("mailto:%73%70%61%6E%65%76@%63%6D%75.%65%64%75", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/spanev", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
