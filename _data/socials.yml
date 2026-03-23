@@ -4,6 +4,7 @@
 cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: spanev@cmu.edu # your email address
 scholar_userid: BNOAmiwAAAAJ # your Google Scholar ID
+orcid_id: 0000-0002-2193-5847
 github_username: spanev
 linkedin_username: stanislav-panev
 bluesky_url: https://bsky.app/profile/stanislavpanev.bsky.social
