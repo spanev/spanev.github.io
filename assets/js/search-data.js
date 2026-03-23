@@ -479,6 +479,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=BNOAmiwAAAAJ", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-2193-5847", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
