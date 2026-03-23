@@ -472,6 +472,13 @@ ninja.data = [{
           window.open("mailto:%73%70%61%6E%65%76@%63%6D%75.%65%64%75", "_blank");
         },
       },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=BNOAmiwAAAAJ", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
@@ -479,11 +486,39 @@ ninja.data = [{
           window.open("https://github.com/spanev", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=BNOAmiwAAAAJ", "_blank");
+          window.open("https://www.linkedin.com/in/stanislav-panev", "_blank");
+        },
+      },{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://bsky.app/profile/stanislavpanev.bsky.social", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/PanevStanislav", "_blank");
+        },
+      },{
+        id: 'social-instagram',
+        title: 'Instagram',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://instagram.com/stvpaneff", "_blank");
+        },
+      },{
+        id: 'social-youtube',
+        title: 'YouTube',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://youtube.com/@StanislavPanev", "_blank");
         },
       },{
       id: 'light-theme',
