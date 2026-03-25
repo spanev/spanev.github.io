@@ -4,7 +4,7 @@ cv:
   email: spanev@cmu.edu
   location: Pittsburgh, PA
   image: ""
-  summary: Summary TODO
+  summary: Research Scientist & Investigator with 15+ years of experience in Computer Vision and Machine Learning. Expert in developing vision systems based on Foundational Generative Models and Vision-Language Models (VLMs) for complex scene understanding, adversarial robustness, and synthetic data generation. Proven track record of securing and leading high-impact research projects funded by international agencies, industry leaders, like General Motors, Sony, and the U.S. Government (Department of Defense). Supervised by Professor Fernando De la Torre (CMU), Professor Jessica Hodgins (CMU), and Professor Shayok Chakraborty (FSU). Extensive experience mentoring PhD and MSc students at Carnegie Mellon University.
 
   social_networks:
     - network: X
@@ -15,7 +15,7 @@ cv:
       username: stanislav-panev
 
   address:
-    street: 5000 Forbes Ave
+    street: 5000 Forbes Ave., 210 Smith Hall
     city: Pittsburgh
     region: Pennsylvania
     postalCode: PA 15213
@@ -23,28 +23,45 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Technical University of Sofia
+        location: Sofia, Bulgaria
+        url: https://www.tu-sofia.bg/
+        area: Electrical Engineering and Computer Sciences
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2008
+        end_date: 2014
         score: ""
-        courses: "Theory of Relativity"
+        courses: ""
         highlights:
           - Description 1.
           - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Technical University of Sofia
+        location: Sofia, Bulgaria
+        url: https://www.tu-sofia.bg/
+        area: Electrical Engineering and Computer Sciences
+        studyType: MSc
+        start_date: 2005
+        end_date: 2008
+        score: ""
+        courses: ""
         highlights:
           - Description 1.
           - Description 2.
+
+      - institution: Technical University of Sofia
+        location: Sofia, Bulgaria
+        url: https://www.tu-sofia.bg/
+        area: Electrical Engineering and Computer Sciences
+        studyType: BSc
+        start_date: 2001
+        end_date: 2005
+        score: ""
+        courses: ""
+        highlights:
+          - Description 1.
+          - Description 2.
+      
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
