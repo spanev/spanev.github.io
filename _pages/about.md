@@ -28,8 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-**This website is currently under construction. Please, come back later.**
-
 I am a Project Scientist at the Robotics Institute at Carnegie Mellon University. My research focuses on computer vision, with an emphasis on aerial and satellite imagery analysis, generative and foundation models, synthetic data, and adversarial robustness. My work explores how modern generative models can be leveraged to diagnose, improve, and stress-test visual recognition systems, particularly in challenging real-world and defense-related scenarios.
 
 I have contributed to multiple research projects funded by the U.S. Department of Defense, addressing problems such as cross-domain object detection, adversarial camouflage, and synthetic data generation for machine learning. My publications appear in leading venues, including ICCV, WACV, ICIP, and IEEE Transactions on ITS, and my recent work investigates integrating generative AI into evaluation and active learning pipelines.
