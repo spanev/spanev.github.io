@@ -8,7 +8,7 @@ cv:
 
   social_networks:
     - network: X
-      username: PanevStanislav
+      username: StanislavPanev
     - network: GitHub
       username: spanev
     - network: LinkedIn
@@ -32,8 +32,9 @@ cv:
         end_date: 2014
         score: ""
         courses: ""
-        highlights: ""
-
+        highlights:
+          - "Thesis: 'Algorithms for Detection and Tracking Human Eye Parameters Using Video Data'"
+      
       - institution: Technical University of Sofia
         location: Sofia, Bulgaria
         url: https://www.tu-sofia.bg/
@@ -43,7 +44,7 @@ cv:
         end_date: 2008
         score: ""
         courses: ""
-        highlights: ""
+        highlights:
 
       - institution: Technical University of Sofia
         location: Sofia, Bulgaria
@@ -54,120 +55,372 @@ cv:
         end_date: 2005
         score: ""
         courses: ""
-        highlights: ""
+        highlights:
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Robotics Institute, Carnegie Mellon University
+        position: Project Scientist
+        location: Pittsburgh, PA, US
+        start_date: 2018/02
+        end_date: Present
+        summary: 
         highlights:
-          - Relativity
-          - Description 2.
+          # - Relativity
+          # - Description 2.
 
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Robotics Institute, Carnegie Mellon University
+        position: Postdoctoral Researcher
+        location: Pittsburgh, PA, US
+        start_date: 2016/08
+        end_date: 2018/01
+        summary: 
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+
+      - company: Robotics Institute, Carnegie Mellon University
+        position: Fulbright Visiting Research Scholar
+        location: Pittsburgh, PA, US
+        start_date: 2015/08
+        end_date: 2016/07
+        summary: 
+        highlights:
+
+      - company: Technical University of Sofia
+        position: Research Scientist
+        location: Sofia, Bulgaria
+        start_date: 2014
+        end_date: 2015
+        summary: 
+        highlights:
+
+      - company: Public University of Navarre
+        position: Internship – European Union Program “Erasmus+”
+        location: Pamplona, Spain
+        start_date: 2007
+        end_date: 2007
+        summary: 
+        highlights:
+
+    # Volunteer:
+    #   - company: People's Climate March
+    #     position: Lead Organizer
+    #     location: Zurich, Switzerland
+    #     start_date: 2014-04-01
+    #     end_date: 2015-07-01
+    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    #     highlights:
+    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+    #       - "Men of the year 2014 by Time magazine"
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: WACV 2024 - Outstanding reviewer
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - ""
+        date: 2024
+        awarder: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+        url: https://x.com/wacv_official/status/1742709389008711890
+        summary: 
 
-      - title: Max Planck Medal
+      - title: Fulbright Visiting Scholar Program Grantee
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - ""
+        date: 2024
+        awarder: Fulbright Program
+        url: https://fulbrightscholars.org/grantee/stanislav-panev
+        summary: 
+
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Texture- and Shape-Based Adversarial Attacks for Overhead Image Vehicle Detection
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - M. Yeghiazaryan
+          - S. A. S. Namburu
+          - E. Kim
+          - S. Panev
+          - C. de Melo
+          - F. D. la Torre
+          - Jessica K. Hodgins
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+        publisher: 2025 IEEE International Conference on Image Processing (ICIP)
+        releaseDate: 2025
+        url: https://ieeexplore.ieee.org/abstract/document/11084759
+        summary: 
+      
+      - title: Leveraging generative AI for cross-regional small object detection in satellite imagery
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Z. Qin
+          - S. Panev
+          - C. de Melo
+          - S. Chakraborty
+          - J. Hodgins
+          - F. D. la Torre
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+        publisher: "Synthetic Data for Artificial Intelligence and Machine Learning: Tools, Techniques, and Applications III (SPIE)"
+        releaseDate: 2025
+        url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13459/134590O/Leveraging-generative-AI-for-cross-regional-small-object-detection-in/10.1117/12.3054372.full
+        summary: 
+
+      - title: Adapting Vehicle Detectors for Aerial Imagery to Unseen Domains with Weak Supervision
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - X. Fang
+          - M. Jeon
+          - Z. Qin
+          - S. Panev
+          - C. de Melo
+          - S. Hu
+          - S. Chakraborty
+          - F. D. la Torre
+
+        publisher: "IEEE/CVF International Conference on Computer Vision (ICCV)"
+        releaseDate: 2025
+        url: https://openaccess.thecvf.com/content/ICCV2025/html/Fang_Adapting_Vehicle_Detectors_for_Aerial_Imagery_to_Unseen_Domains_with_ICCV_2025_paper.html
+        summary:
+
+      - title: Exploring the Impact of Rendering Method and Motion Quality on Model Performance When Using Multi-View Synthetic Data for Action Recognition
+        authors:
+          - S. Panev
+          - E. Kim
+          - S. A. S. Namburu
+          - D. Nikolova
+          - C. de Melo
+          - F. D. la Torre
+          - J. Hodgins
+
+        publisher: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
+        releaseDate: 2024
+        url: https://openaccess.thecvf.com/content/WACV2024/html/Panev_Exploring_the_Impact_of_Rendering_Method_and_Motion_Quality_on_WACV_2024_paper.html
+        summary: 
+
+      - title: Parkinson’s Disease Tremor Detection in the Wild Using Wearable Accelerometers
+        authors:
+          - Rubén San-Segundo
+          - Ada Zhang
+          - Alexander Cebulla
+          - Stanislav Panev
+          - Griffin Tabor
+          - Katelyn Stebbins
+          - Robyn E. Massa
+          - Andrew Whitford
+          - Fernando De La Torre
+          - Jessica Hodgins
+
+        publisher: "Sensors, 2020"
+        releaseDate: 2020
+        url: https://www.mdpi.com/1424-8220/20/20/5817
+        summary: 
+
+      - title: "Person-in-WiFi: Fine-Grained Person Perception Using WiFi"
+        authors:
+          - Fei Wang
+          - Sanping Zhou
+          - Stanislav Panev
+          - Jinsong Han
+          - Dong Huang
+
+        publisher: "IEEE/CVF International Conference on Computer Vision (ICCV)"
+        releaseDate: 2019
+        url: https://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Person-in-WiFi_Fine-Grained_Person_Perception_Using_WiFi_ICCV_2019_paper.html
+        summary: 
+
+      - title: Road Curb Detection and Localization With Monocular Forward-View Vehicle Camera
+        authors:
+          - Stanislav Panev
+          - Francisco Vicente
+          - Fernando De La Torre
+          - Véronique Prinet
+
+        publisher: "IEEE Transactions on Intelligent Transportation Systems"
+        releaseDate: 2019
+        url: https://ieeexplore.ieee.org/document/8532105
+        summary: 
+
+      - title: Automated tremor detection in Parkinson’s disease using accelerometer signals
+        authors:
+          - A. Zhang
+          - R. San-Segundo
+          - S. Panev
+          - G. Tabor
+          - K. Stebbins
+          - A. Whitford
+          - F. D. la Torre
+          - J. Hodgins
+
+        publisher: "2018 IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies, in CHASE ’18"
+        releaseDate: 2018
+        url: https://ieeexplore.ieee.org/document/8648666
+        summary:
+
+      - title: Weakly-supervised learning for Parkinson’s Disease tremor detection
+        authors:
+          - Ada Zhang
+          - Alexander Cebulla
+          - Stanislav Panev
+          - Jessica Hodgins
+          - Fernando De La Torre
+
+        publisher: "39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)"
+        releaseDate: 2017
+        url: https://ieeexplore.ieee.org/document/8036782
+        summary: 
+
+      # - title: 
+      #   authors:
+      #     - S. Panev
+
+      #   publisher: ""
+      #   releaseDate: 2025
+      #   url: 
+      #   summary: 
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Programming Languages
+        level: 
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Python, C/C++, MATLAB"
+
+      - name: Frameworks
+        level: 
+        icon: fa-solid fa-hashtag
+        keywords: "PyTorch, Transformers, Diffusers, OpenAI API, Gemini API"
+
+      - name: Tools
+        level: 
+        icon: fa-solid fa-hashtag
+        keywords: "Linux/Unix, Git, Bash, Jupyter Notebooks, Docker"
 
     Languages:
-      - name: German
+      - name: Bulgarian
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
 
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: computer science
+        icon: fa-solid fa-laptop-code
+        keywords: "computer vision; aerial and satellite imagery analysis; foundation models and generative AI; adversarial robustness; synthetic data generation for machine learning; computer graphics"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      # - name: photography
+      #   icon: fa-solid fa-camera
+      #   keywords: "landscape; portrait; wildlife; street"
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      # - name: music
+      #   icon: fa-solid fa-music
+      #   keywords: "classical; jazz; rock"
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    # Certificates:
+    #   - name: Machine Learning
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-location-dot
+
+    #   - name: Quantum Computing
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-tag
+
+    #   - name: Quantum Information
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-envelope
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Cooperative Foundational Models for Object Detection Active Learning
+        summary: 
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Sponsored by DEVCOM Army Research Laboratory (ARL), U.S. Department of War
+          - "Role: Investigator"
+        start_date: 2026
+        end_date: present
+
+      - name: Aerial-view Object Detector Diagnosis Using Foundational Image Generative Models
+        summary: 
+        highlights:
+          - Sponsored by DEVCOM Army Research Laboratory (ARL), U.S. Department of Defense
+          - "Role: Investigator"
+        start_date: 2024
+        end_date: 2025
+
+      - name: Realistic Vehicle Camouflage Adversarial Attacks With Latent Diffusion Generative Models
+        summary: 
+        highlights:
+          - Sponsored by DEVCOM Army Research Laboratory (ARL), U.S. Department of Defense
+          - "Role: Investigator"
+        start_date: 2024
+        end_date: 2025
+
+      - name: Counter Autonomy by Applying Adversarial Attacks on Satellite Imagery
+        summary: 
+        highlights:
+          - Sponsored by DEVCOM Army Research Laboratory (ARL), U.S. Department of Defense
+          - "Role: Investigator"
+        start_date: 2022
+        end_date: 2023
+
+      - name: Human Activity Recognition in Aerial Videos using Synthetic Data
+        summary: 
+        highlights:
+          - Army AI Innovations Institute (A2I2)
+          - Sponsored by DEVCOM Army Research Laboratory (ARL), U.S. Department of Defense
+          - "Role: Investigator"
+        start_date: 2021
+        end_date: 2022
+
+      - name: G2 – Satellite Vehicles Detection using Synthetically-generated Data
+        summary: 
+        highlights:
+          - Sponsored by U.S. Department of Defense
+          - "Role: Investigator"
+        start_date: 2020
+        end_date: 2021
+
+      - name: Project "Maven"
+        summary: 
+        highlights:
+          - Sponsored by U.S. Department of Defense
+          - "Role: Investigator"
+        start_date: 2018
+        end_date: 2020
+
+      - name: Affective State Estimation using Wearable Sensors
+        summary: 
+        highlights:
+          - Sponsored by Sony Corp., Japan
+          - "Role: Investigator"
+        start_date: 2016
+        end_date: 2019
+
+      - name: Monitoring Motor Symptoms in Parkinson’s Disease with Wearable Devices
+        summary: 
+        highlights:
+          - Sponsored by Carnegie Mellon University and AbiliLife Inc.
+          - "Role: Investigator"
+        start_date: 2016
+        end_date: 2016
+
+      - name: Automated Image Analysis for Robust Detection of Curbs
+        summary: 
+        highlights:
+          - Sponsored by General Motors Inc.
+          - "Role: Investigator"
+        start_date: 2015
+        end_date: 2016
+
+      # - name: 
+      #   summary: 
+      #   # highlights:
+      #   #   - 
+      #   start_date: 
+      #   end_date: 
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
+      - name: Professor Fernando De la Torre
         icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: Fernando De la Torre received his B.Sc. degree in Telecommunications, as well as his M.Sc. and Ph. D degrees in Electronic Engineering from La Salle School of Engineering at Ramon Llull University, Barcelona, Spain in 1994, 1996, and 2002, respectively. He has been a research faculty member in the Robotics Institute at Carnegie Mellon University since 2005 (currently Research Professor). In 2014 he founded FacioMetrics LLC to license technology for facial image analysis (acquired by Facebook in 2016). His research interests are in the fields of Computer Vision and Machine Learning. In particular, applications to human health, augmented reality, virtual reality, and methods that focus on the data (not the model). He is directing the Human Sensing Laboratory (HSL).
+
+      - name: Professor Jessica K. Hodgins
+        icon: fa-solid fa-thumbtack
+        reference: Jessica Hodgins is a Professor in the Robotics Institute and Computer Science Department at Carnegie Mellon University. From 2008-2016, she founded and ran research labs for Disney, rising to VP of Research and leading the labs in Pittsburgh and Los Angeles. From 2005-2015, she was Associate Director for Faculty in the Robotics Institute, running the promotion and tenure process and creating a mentoring program for pre-tenure faculty. Prior to moving to Carnegie Mellon in 2000, she was an Associate Professor and Assistant Dean in the College of Computing at Georgia Institute of Technology. She received her Ph.D. in Computer Science from Carnegie Mellon University in 1989. Her research focuses on computer graphics, animation, and robotics with an emphasis on generating and analyzing human motion. She has received a NSF Young Investigator Award, a Packard Fellowship, and a Sloan Fellowship. She was editor-in-chief of ACM Transactions on Graphics from 2000-2002 and ACM SIGGRAPH Papers Chair in 2003. She was an elected director at large on the ACM SIGGRAPH Executive Committee from 2012-2017 and in 2017 she was elected ACM SIGGRAPH President. In 2010, she was awarded the ACM SIGGRAPH Computer Graphics Achievement Award and in 2017 she was awarded the Steven Anson Coons Award for Outstanding Creative Contributions to Computer Graphics. 
+
+      - name: Professor Shayok Chakraborty
+        icon: fa-solid fa-thumbtack
+        reference: Shayok Chakraborty is an Associate Professor in the Computer Science Department at Florida State University. He has served as the Director of the MS program in Computer Science at FSU (08/2023 – 06/2024). He was a Visiting Faculty member at the Robotics Institute, Carnegie Mellon University (09/2024 – 06/2025). He received his PhD in Computer Science from Arizona State University in 2013. Prior to joining FSU, he was employed as an Assistant Research Professor at ASU, where he was an Associate Director of the Center for Cognitive Ubiquitous Computing (CUbiC) laboratory. He has worked as a Postdoctoral researcher at Intel Labs, Oregon, and in the Electrical and Computer Engineering department at Carnegie Mellon University. He also pursued a research internship in the Machine Learning department at Microsoft Research, Redmond. His research interests include Machine Learning, Computer Vision, and AI for Healthcare.
