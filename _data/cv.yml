@@ -1,6 +1,7 @@
 cv:
   name: Stanislav Panev
   label: Project Scientist
+  image: ""
   email: spanev@cmu.edu
   location: Pittsburgh, PA
   summary: Research Scientist & Investigator with 15+ years of experience in Computer Vision and Machine Learning. Expert in developing vision systems based on Foundational Generative Models and Vision-Language Models (VLMs) for complex scene understanding, adversarial robustness, and synthetic data generation. Proven track record of securing and leading high-impact research projects funded by international agencies, industry leaders, like General Motors, Sony, and the U.S. Government (Department of Defense). Supervised by Professor Fernando De la Torre (CMU), Professor Jessica Hodgins (CMU), and Professor Shayok Chakraborty (FSU). Extensive experience mentoring PhD and MSc students at Carnegie Mellon University.
@@ -53,34 +54,7 @@ cv:
         end_date: 2005
         score: ""
         courses: ""
-        highlights:
-      
-
-    Experience:
-      - company: Robotics Institute, Carnegie Mellon University
-        position: Project Scientist
-        location: Pittsburgh, PA
-        start_date: 2018-02
-        end_date: 
-
-      - company: Robotics Institute, Carnegie Mellon University
-        position: Postdoctoral Fellow
-        location: Pittsburgh, PA
-        start_date: 2016-08
-        end_date: 2018-01
-
-      - company: Robotics Institute, Carnegie Mellon University
-        position: Fulbright Visiting Research Scholar
-        location: Pittsburgh, PA
-        start_date: 2015-08
-        end_date: 2016-07
-
-      - company: Technical University of Sofia
-        position: Research Scientist
-        location: Sofia, Bulgaria
-        start_date: 2014
-        end_date: 2015
-      
+        highlights:      
 
     Volunteer:
       - company: People's Climate March
