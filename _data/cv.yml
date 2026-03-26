@@ -1,9 +1,9 @@
 cv:
   name: Stanislav Panev
   label: Project Scientist
-  image: ""
   email: spanev@cmu.edu
   location: Pittsburgh, PA
+  image: ""
   summary: Research Scientist & Investigator with 15+ years of experience in Computer Vision and Machine Learning. Expert in developing vision systems based on Foundational Generative Models and Vision-Language Models (VLMs) for complex scene understanding, adversarial robustness, and synthetic data generation. Proven track record of securing and leading high-impact research projects funded by international agencies, industry leaders, like General Motors, Sony, and the U.S. Government (Department of Defense). Supervised by Professor Fernando De la Torre (CMU), Professor Jessica Hodgins (CMU), and Professor Shayok Chakraborty (FSU). Extensive experience mentoring PhD and MSc students at Carnegie Mellon University.
 
   social_networks:
@@ -32,7 +32,7 @@ cv:
         end_date: 2014
         score: ""
         courses: ""
-        highlights:
+        highlights: ""
 
       - institution: Technical University of Sofia
         location: Sofia, Bulgaria
@@ -43,7 +43,7 @@ cv:
         end_date: 2008
         score: ""
         courses: ""
-        highlights:
+        highlights: ""
 
       - institution: Technical University of Sofia
         location: Sofia, Bulgaria
@@ -54,7 +54,19 @@ cv:
         end_date: 2005
         score: ""
         courses: ""
-        highlights:      
+        highlights: ""
+
+    Experience:
+      - company: Institute for Advanced Study, Princeton University
+        position: Professor of Theoretical Physics
+        location: Princeton University, NJ
+        start_date: 1933
+        end_date: 1955
+        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        highlights:
+          - Relativity
+          - Description 2.
+
 
     Volunteer:
       - company: People's Climate March
