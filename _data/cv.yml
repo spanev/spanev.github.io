@@ -4,7 +4,7 @@ cv:
   email: spanev@cmu.edu
   location: Pittsburgh, PA
   image: ""
-  summary: Research Scientist & Investigator with 15+ years of experience in Computer Vision and Machine Learning. Expert in developing vision systems based on Foundational Generative Models and Vision-Language Models (VLMs) for complex scene understanding, adversarial robustness, and synthetic data generation. Proven track record of securing and leading high-impact research projects funded by international agencies, industry leaders, like General Motors, Sony, and the U.S. Government (Department of Defense). Supervised by Professor Fernando De la Torre (CMU), Professor Jessica Hodgins (CMU), and Professor Shayok Chakraborty (FSU). Extensive experience mentoring PhD and MSc students at Carnegie Mellon University.
+  summary: **Research Scientist & Investigator** with 15+ years of experience in Computer Vision and Machine Learning. Expert in developing vision systems based on Foundational Generative Models and Vision-Language Models (VLMs) for complex scene understanding, adversarial robustness, and synthetic data generation. Proven track record of securing and leading high-impact research projects funded by international agencies, industry leaders, like General Motors, Sony, and the U.S. Government (Department of Defense). Supervised by Professor Fernando De la Torre (CMU), Professor Jessica Hodgins (CMU), and Professor Shayok Chakraborty (FSU). Extensive experience mentoring PhD and MSc students at Carnegie Mellon University.
 
   social_networks:
     - network: X
@@ -33,8 +33,6 @@ cv:
         score: ""
         courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
 
       - institution: Technical University of Sofia
         location: Sofia, Bulgaria
@@ -46,8 +44,6 @@ cv:
         score: ""
         courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
 
       - institution: Technical University of Sofia
         location: Sofia, Bulgaria
@@ -59,47 +55,41 @@ cv:
         score: ""
         courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
       
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Robotics Institute, Carnegie Mellon University
+        position: Project Scientist
+        location: Pittsburgh, PA
+        start_date: 02/2018
+        end_date: present
+        summary: 
         highlights:
-          - Relativity
-          - Description 2.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Robotics Institute, Carnegie Mellon University
+        position: Postdoctoral Fellow
+        location: Pittsburgh, PA
+        start_date: 08/2016
+        end_date: 01/2018
+        summary: 
         highlights:
-          - Description 1.
-          - Description 2.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Robotics Institute, Carnegie Mellon University
+        position: Fulbright Visiting Research Scholar
+        location: Pittsburgh, PA
+        start_date: 08/2015
+        end_date: 07/2016
+        summary: 
+        highlights:
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: Technical University of Sofia
+        position: Research Scientist
+        location: Sofia, Bulgaria
+        start_date: 2014
+        end_date: 2015
+        summary: 
+        highlights:
+      
 
     Volunteer:
       - company: People's Climate March
