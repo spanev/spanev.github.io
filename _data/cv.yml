@@ -33,7 +33,6 @@ cv:
         score: ""
         courses: ""
         highlights:
-          - "Thesis: 'Algorithms for Detection and Tracking Human Eye Parameters Using Video Data'"
       
       - institution: Technical University of Sofia
         location: Sofia, Bulgaria
