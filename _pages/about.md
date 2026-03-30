@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: ProfilePictureSq1.jpg
+  image: ProfilePicture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Robotics Institute</p>
