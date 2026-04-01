@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-01'
 papers:
   BNOAmiwAAAAJ:0EnyYjriUFMC:
     citations: 125
@@ -77,6 +77,10 @@ papers:
     citations: 8
     title: Can WiFi estimate person pose?. arXiv
     year: '2019'
+  BNOAmiwAAAAJ:aqlVkmm33-oC:
+    citations: 0
+    title: In-the-Wild Camouflage Attack on Vehicle Detectors through Controllable Image Editing
+    year: '2026'
   BNOAmiwAAAAJ:d1gkVwhDpl0C:
     citations: 11
     title: Homography-based face orientation determination from a fixed monocular camera
