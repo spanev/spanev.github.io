@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-04-17'
 papers:
   BNOAmiwAAAAJ:0EnyYjriUFMC:
-    citations: 125
+    citations: 128
     title: "Parkinson\u2019s disease tremor detection in the wild using wearable accelerometers"
     year: '2020'
   BNOAmiwAAAAJ:2osOgNQ5qMEC:
@@ -26,7 +26,7 @@ papers:
     title: Exploring the impact of rendering method and motion quality on model performance when using multi-view synthetic data for action recognition
     year: '2024'
   BNOAmiwAAAAJ:LkGwnXOMwfcC:
-    citations: 275
+    citations: 278
     title: 'Person-in-WiFi: Fine-grained person perception using WiFi'
     year: '2019'
   BNOAmiwAAAAJ:M3ejUd6NZC8C:
@@ -66,7 +66,7 @@ papers:
     title: Texture-and Shape-based Adversarial Attacks for Vehicle Detection in Synthetic Overhead Imagery
     year: '2024'
   BNOAmiwAAAAJ:YsMSGLbcyi4C:
-    citations: 35
+    citations: 36
     title: Weakly-supervised learning for Parkinson's Disease tremor detection
     year: '2017'
   BNOAmiwAAAAJ:_FxGoFyzp5QC:
