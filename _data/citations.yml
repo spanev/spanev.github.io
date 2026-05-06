@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-17'
+  last_updated: '2026-05-06'
 papers:
   BNOAmiwAAAAJ:0EnyYjriUFMC:
-    citations: 128
+    citations: 133
     title: "Parkinson\u2019s disease tremor detection in the wild using wearable accelerometers"
     year: '2020'
   BNOAmiwAAAAJ:2osOgNQ5qMEC:
@@ -22,11 +22,11 @@ papers:
     title: Human gaze tracking with an active multi-camera system
     year: '2014'
   BNOAmiwAAAAJ:KlAtU1dfN6UC:
-    citations: 5
+    citations: 6
     title: Exploring the impact of rendering method and motion quality on model performance when using multi-view synthetic data for action recognition
     year: '2024'
   BNOAmiwAAAAJ:LkGwnXOMwfcC:
-    citations: 278
+    citations: 281
     title: 'Person-in-WiFi: Fine-grained person perception using WiFi'
     year: '2019'
   BNOAmiwAAAAJ:M3ejUd6NZC8C:
@@ -70,7 +70,7 @@ papers:
     title: Weakly-supervised learning for Parkinson's Disease tremor detection
     year: '2017'
   BNOAmiwAAAAJ:_FxGoFyzp5QC:
-    citations: 87
+    citations: 89
     title: Can WiFi estimate person pose?
     year: '2019'
   BNOAmiwAAAAJ:_kc_bZDykSQC:
