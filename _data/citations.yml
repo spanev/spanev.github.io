@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-05-25'
 papers:
   BNOAmiwAAAAJ:0EnyYjriUFMC:
     citations: 136
     title: "Parkinson\u2019s disease tremor detection in the wild using wearable accelerometers"
     year: '2020'
   BNOAmiwAAAAJ:2osOgNQ5qMEC:
-    citations: 17
+    citations: 18
     title: IR Based Pupil Tracking Using Particle Filtering
     year: '2008'
   BNOAmiwAAAAJ:4TOpqqG69KYC:
