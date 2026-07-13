@@ -1,14 +1,18 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-07-13'
 papers:
   BNOAmiwAAAAJ:0EnyYjriUFMC:
-    citations: 137
+    citations: 139
     title: "Parkinson\u2019s disease tremor detection in the wild using wearable accelerometers"
     year: '2020'
   BNOAmiwAAAAJ:2osOgNQ5qMEC:
     citations: 18
     title: IR Based Pupil Tracking Using Particle Filtering
     year: '2008'
+  BNOAmiwAAAAJ:4DMP91E08xMC:
+    citations: 0
+    title: Diagnosing Aerial-View Object Detectors with Foundational Image Generative Models
+    year: '2026'
   BNOAmiwAAAAJ:4TOpqqG69KYC:
     citations: 0
     title: Leveraging generative AI for cross-regional small object detection in satellite imagery
@@ -26,11 +30,11 @@ papers:
     title: Exploring the impact of rendering method and motion quality on model performance when using multi-view synthetic data for action recognition
     year: '2024'
   BNOAmiwAAAAJ:LkGwnXOMwfcC:
-    citations: 284
+    citations: 290
     title: 'Person-in-WiFi: Fine-grained person perception using WiFi'
     year: '2019'
   BNOAmiwAAAAJ:M3ejUd6NZC8C:
-    citations: 0
+    citations: 1
     title: Adapting Vehicle Detectors for Aerial Imagery to Unseen Domains with Weak Supervision
     year: '2025'
   BNOAmiwAAAAJ:Tyk-4Ss8FVUC:
@@ -38,7 +42,7 @@ papers:
     title: Gaze tracking, facial orientation determination, face and emotion recognition in 3d space for neurorehabilitation applications
     year: '2015'
   BNOAmiwAAAAJ:ULOm3_A8WrAC:
-    citations: 9
+    citations: 10
     title: Can WiFi estimate person pose? arXiv 2019
     year: Unknown Year
   BNOAmiwAAAAJ:UeHWp8X0CEIC:
@@ -70,7 +74,7 @@ papers:
     title: Weakly-supervised learning for Parkinson's Disease tremor detection
     year: '2017'
   BNOAmiwAAAAJ:_FxGoFyzp5QC:
-    citations: 89
+    citations: 93
     title: Can WiFi estimate person pose?
     year: '2019'
   BNOAmiwAAAAJ:_kc_bZDykSQC:
@@ -78,7 +82,7 @@ papers:
     title: Can WiFi estimate person pose?. arXiv
     year: '2019'
   BNOAmiwAAAAJ:aqlVkmm33-oC:
-    citations: 0
+    citations: 1
     title: In-the-Wild Camouflage Attack on Vehicle Detectors through Controllable Image Editing
     year: '2026'
   BNOAmiwAAAAJ:d1gkVwhDpl0C:
