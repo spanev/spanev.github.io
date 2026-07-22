@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-07-22'
 papers:
   BNOAmiwAAAAJ:0EnyYjriUFMC:
     citations: 139
@@ -30,7 +30,7 @@ papers:
     title: Exploring the impact of rendering method and motion quality on model performance when using multi-view synthetic data for action recognition
     year: '2024'
   BNOAmiwAAAAJ:LkGwnXOMwfcC:
-    citations: 298
+    citations: 299
     title: 'Person-in-WiFi: Fine-grained person perception using WiFi'
     year: '2019'
   BNOAmiwAAAAJ:M3ejUd6NZC8C:
