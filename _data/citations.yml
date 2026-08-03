@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-03'
 papers:
   BNOAmiwAAAAJ:0EnyYjriUFMC:
-    citations: 139
+    citations: 135
     title: "Parkinson\u2019s disease tremor detection in the wild using wearable accelerometers"
     year: '2020'
   BNOAmiwAAAAJ:2osOgNQ5qMEC:
-    citations: 18
+    citations: 4
     title: IR Based Pupil Tracking Using Particle Filtering
     year: '2008'
   BNOAmiwAAAAJ:4DMP91E08xMC:
@@ -67,7 +67,7 @@ papers:
     year: '2013'
   BNOAmiwAAAAJ:YOwf2qJgpHMC:
     citations: 1
-    title: Texture-and Shape-based Adversarial Attacks for Vehicle Detection in Synthetic Overhead Imagery
+    title: Texture-and shape-based adversarial attacks for vehicle detection in synthetic overhead imagery
     year: '2024'
   BNOAmiwAAAAJ:YsMSGLbcyi4C:
     citations: 36
@@ -86,7 +86,7 @@ papers:
     title: In-the-Wild Camouflage Attack on Vehicle Detectors through Controllable Image Editing
     year: '2026'
   BNOAmiwAAAAJ:d1gkVwhDpl0C:
-    citations: 11
+    citations: 10
     title: Homography-based face orientation determination from a fixed monocular camera
     year: '2011'
   BNOAmiwAAAAJ:hqOjcs7Dif8C:
@@ -96,7 +96,7 @@ papers:
   BNOAmiwAAAAJ:kNdYIx-mwKoC:
     citations: 0
     title: Publication Submission Form
-    year: '2018'
+    year: '2015'
   BNOAmiwAAAAJ:qjMakFHDy7sC:
     citations: 1
     title: Pan-Tilt Camera Control with Application to Face Tracking
@@ -114,11 +114,11 @@ papers:
     title: The infrared camera-based system to evaluate the human sleepiness
     year: '2011'
   BNOAmiwAAAAJ:u5HHmVD_uO8C:
-    citations: 7
+    citations: 6
     title: Ir based pupil tracking using optimized particle filter
     year: '2009'
   BNOAmiwAAAAJ:ufrVoPGSRksC:
-    citations: 41
+    citations: 40
     title: Automated tremor detection in Parkinson's disease using accelerometer signals
     year: '2018'
   BNOAmiwAAAAJ:zYLM7Y9cAGgC:
