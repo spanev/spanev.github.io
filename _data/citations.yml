@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-07'
 papers:
   BNOAmiwAAAAJ:0EnyYjriUFMC:
     citations: 135
@@ -30,12 +30,12 @@ papers:
     title: Exploring the impact of rendering method and motion quality on model performance when using multi-view synthetic data for action recognition
     year: '2024'
   BNOAmiwAAAAJ:LkGwnXOMwfcC:
-    citations: 299
+    citations: 300
     title: 'Person-in-WiFi: Fine-grained person perception using WiFi'
     year: '2019'
   BNOAmiwAAAAJ:M3ejUd6NZC8C:
     citations: 1
-    title: Adapting Vehicle Detectors for Aerial Imagery to Unseen Domains with Weak Supervision
+    title: Adapting vehicle detectors for aerial imagery to unseen domains with weak supervision
     year: '2025'
   BNOAmiwAAAAJ:Tyk-4Ss8FVUC:
     citations: 2
@@ -96,7 +96,7 @@ papers:
   BNOAmiwAAAAJ:kNdYIx-mwKoC:
     citations: 0
     title: Publication Submission Form
-    year: '2015'
+    year: '2006'
   BNOAmiwAAAAJ:qjMakFHDy7sC:
     citations: 1
     title: Pan-Tilt Camera Control with Application to Face Tracking
