@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-31'
 papers:
   BNOAmiwAAAAJ:0EnyYjriUFMC:
-    citations: 138
+    citations: 141
     title: "Parkinson\u2019s disease tremor detection in the wild using wearable accelerometers"
     year: '2020'
   BNOAmiwAAAAJ:2osOgNQ5qMEC:
@@ -30,7 +30,7 @@ papers:
     title: Exploring the impact of rendering method and motion quality on model performance when using multi-view synthetic data for action recognition
     year: '2024'
   BNOAmiwAAAAJ:LkGwnXOMwfcC:
-    citations: 305
+    citations: 306
     title: 'Person-in-WiFi: Fine-grained person perception using WiFi'
     year: '2019'
   BNOAmiwAAAAJ:M3ejUd6NZC8C:
@@ -118,7 +118,7 @@ papers:
     title: Ir based pupil tracking using optimized particle filter
     year: '2009'
   BNOAmiwAAAAJ:ufrVoPGSRksC:
-    citations: 40
+    citations: 41
     title: Automated tremor detection in Parkinson's disease using accelerometer signals
     year: '2018'
   BNOAmiwAAAAJ:zYLM7Y9cAGgC:
