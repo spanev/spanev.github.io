@@ -8,19 +8,23 @@
 
 "de la torre":
   - firstname: ["Fernando", "F."]
-    url: https://www.cs.cmu.edu/~ftorre/
+    url: https://scholar.google.com/citations?user=YB8_6gkAAAAJ
+
+"torre":
+  - firstname: ["Fernando De La", "Fernando De la", "Fernando de La", "Fernando de la", "F."]
+    url: https://scholar.google.com/citations?user=YB8_6gkAAAAJ
 
 "de melo":
   - firstname: ["Celso", "C."]
-    url: https://celsodemelo.net/
+    url: https://scholar.google.com/citations?user=3ftbE9oAAAAJ
 
 "melo":
   - firstname: ["Celso De", "Celso", "C."]
-    url: https://celsodemelo.net/
+    url: https://scholar.google.com/citations?user=3ftbE9oAAAAJ
 
 "fang":
   - firstname: ["Xiao", "X."]
-    url: https://xiaofang007.github.io/
+    url: https://scholar.google.com/citations?user=wkc1Eh8AAAAJ
 
 "han":
   - firstname: ["Jinsong", "J."]
@@ -28,11 +32,11 @@
 
 "hodgins":
   - firstname: ["Jessica", "J.", "J. K.", "Jessica K."]
-    url: https://www.cs.cmu.edu/~jkh/
+    url: https://scholar.google.com/citations?user=vswo4rQAAAAJ
 
 "hu":
   - firstname: ["Shuowen", "S."]
-    url: https://scholar.google.com/citations?user=kpd1UoMAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=kpd1UoMAAAAJ
 
 "huang":
   - firstname: ["Dong", "D."]
@@ -40,11 +44,15 @@
 
 "jeon":
   - firstname: ["Minhyek", "M."]
-    url: https://scholar.google.com/citations?user=hk0FmXQAAAAJ&hl=ko
+    url: https://scholar.google.com/citations?user=hk0FmXQAAAAJ
+
+"khindkar":
+  - firstname: ["Vaishnavi", "V."]
+    url: https://scholar.google.com/citations?user=X0FxJ0UAAAAJ
 
 "kim":
   - firstname: ["Emily", "E."]
-    url: https://scholar.google.com/citations?user=XQHAW5gAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=XQHAW5gAAAAJ
 
 "namburu":
   - firstname: ["Sai Abhishek Siddhartha", "S.", "S. A. S.", "Sai Abhishek Si"]
@@ -76,7 +84,7 @@
 
 "vicente":
   - firstname: ["Francisco", "F."]
-    url: https://scholar.google.com/citations?user=3elKp9wAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=3elKp9wAAAAJ
 
 "whitford":
   - firstname: ["Andrew", "A.", "Andrew S.", "A. S."]
@@ -84,7 +92,7 @@
 
 "yeghiazaryan":
   - firstname: ["Mikael", "M."]
-    url: https://mikayeghi.github.io/
+    url: https://scholar.google.com/citations?user=IgzsfvgAAAAJ
 
 "zhang":
   - firstname: ["Ada", "A."]
@@ -92,4 +100,4 @@
 
 "zhou":
   - firstname: ["Sanping", "S."]
-    url: https://scholar.google.com/citations?user=2Drvv44AAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=2Drvv44AAAAJ
